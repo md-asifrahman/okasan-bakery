@@ -1,0 +1,76 @@
+/* .d-flex .btn i{
+    font-size: 36px;
+    margin: 10px;
+    color: white;
+} */
+.features {
+    background-color: #f4f7f9;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+body > section, .footer {
+    padding: 70px 0;
+}
+
+.mb50 {
+    margin-bottom: 50px;
+}
+.sec-title h2 {
+    color: #EC4D4B;
+    font-size: 28px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.devider {
+    margin-top: 30px;
+}
+
+.devider i {
+    color: #000000;
+}
+
+
+
+
+
+
+.service-desc {
+    margin-left: 70px;
+    position: relative;
+    top: 5px;
+}
+
+.service-desc h3 {
+    color: #062033;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.service-icon {
+    border: 1px solid #162723;
+    border-radius: 50%;
+    color: #EC4D4B;
+    float: left;
+    padding: 10px 13px;
+}
+
+
+.devider:before {
+    right: 10px;
+}
+
+.devider:after {
+    left: 10px;
+}
+
+.devider:before, .devider:after {
+    content: "______________________";
+    color: #21090b;
+    position: relative;
+    bottom: 6px;
+}
+figure, p {
+    margin: 0;
+}

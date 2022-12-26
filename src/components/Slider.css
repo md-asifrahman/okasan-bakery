@@ -1,0 +1,29 @@
+
+.carousel-item img {
+    height: 100vh;
+    object-fit: cover;
+    
+  }
+
+  .carousel-caption{
+    text-align: justify;
+    margin-bottom: 11%;
+    margin-right: 10%;
+  }
+  .carousel-caption h5{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    margin-right: 30%;
+    font-weight: 300;
+  }
+
+  .carousel-caption .btn{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .carousel-caption .btn:hover{ 
+    color: black;
+  }

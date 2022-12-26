@@ -1,0 +1,41 @@
+:root{
+    --lg-font: 'Kaisei Tokumin', serif;
+    --sm-font: 'Poppins', sans-serif;
+    --pink: #EC4D4B;
+}
+
+#collection{
+    background-color: #f4f7f9;
+}
+.title h2{
+    border-bottom: 2px solid #E94B3CFF;
+}
+
+.active-filter-btn{
+    background-color: var(--pink)!important;
+    color: #fff!important;
+    border-color: var(--pink)!important;
+}
+.collection-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+.filter-button-group .btn:hover{
+    color: #2D2926FF!important;
+    background-color: #EC4D4B !important;
+}
+
+.box-shadow:hover{
+    box-shadow: -2px 9px 21px 5px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 9px 21px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 9px 21px 5px rgba(0,0,0,0.75);
+transition: 0.5s;
+border: 2px solid white;
+ border-radius: 12px;
+}
+.rating i{
+    color: rgb(244, 232, 8);
+}

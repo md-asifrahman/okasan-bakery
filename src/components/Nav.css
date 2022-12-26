@@ -1,0 +1,44 @@
+
+
+
+
+/* text color */
+.text-primary{
+    color: rgb(255, 255, 255)!important;
+}
+
+/* navbar */
+.navbar{
+    -webkit-box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.1);
+        
+}
+
+.navbar-brand span{
+    letter-spacing: 2px;
+    font-family: var(--lg-font);
+    color: #ffffff !important;
+}
+.nav-link{
+    color: #ffffff !important;
+}
+.nav-link:hover{
+    color: #EC4D4B!important;
+}
+.nav-item{
+    border-bottom: 0.5px solid rgba(255, 0, 0, 0.05);
+    font-family: var(--lg-font);
+    
+}
+
+@media(min-width: 992px){
+    .nav-item{
+        border-bottom: none;
+    }
+}
+.ccart{
+    color: rgb(255, 255, 255);
+}
+.badge{
+    background-color: #EC4D4B;
+}
