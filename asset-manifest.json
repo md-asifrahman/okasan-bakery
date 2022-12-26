@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/okasan-bakery/static/css/main.c26ade27.css",
+    "main.js": "/okasan-bakery/static/js/main.55f8900b.js",
+    "static/js/787.e911c56d.chunk.js": "/okasan-bakery/static/js/787.e911c56d.chunk.js",
+    "index.html": "/okasan-bakery/index.html",
+    "main.c26ade27.css.map": "/okasan-bakery/static/css/main.c26ade27.css.map",
+    "main.55f8900b.js.map": "/okasan-bakery/static/js/main.55f8900b.js.map",
+    "787.e911c56d.chunk.js.map": "/okasan-bakery/static/js/787.e911c56d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26ade27.css",
+    "static/js/main.55f8900b.js"
+  ]
+}
